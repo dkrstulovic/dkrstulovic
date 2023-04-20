@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Experienced (+5 years) Software Engineer with a demonstrated history of working in the software development industry with focus on Web applications. React expert. Proficient in using React, Redux, and other modern front-end technologies to develop dynamic and responsive user interfaces. Skilled in optimizing performance, managing state, and debugging complex issues in React applications. Passionate about staying up-to-date with the latest developments in the React ecosystem and leveraging them to deliver exceptional user experiences. Takes the job with passion and responsibility, eager to take on new challenges.
 
-<img align="right" src="./gifs/coding.gif" />
+<img align="center" src="./gifs/coding.gif" />
