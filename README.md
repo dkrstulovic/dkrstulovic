@@ -8,8 +8,8 @@
 Experienced (+5 years) Full Stack Engineer with a demonstrated history of working in the software development industry with focus on Web applications. React expert. Proficient in using React, Typescript, and other modern front-end technologies to develop dynamic and responsive user interfaces. Experienced with node.js and .NET back-end technologies. Skilled in optimizing performance, managing state, and debugging complex issues in React applications. Passionate about staying up-to-date with the latest developments and leveraging them to deliver exceptional user experiences.
 
 <br />
-
 <img align="right" height="250" width="400" alt="GIF" src="./gifs/coding.gif" />
+<br />
 
 - 🔭 I’m currently working on [oneAudi](https://www.audibusinessinnovation.com/abi/web/en/what-we-do/what-we-do-oneAudi.html)
 - 🌱 I’m currently learning **DevOps**
