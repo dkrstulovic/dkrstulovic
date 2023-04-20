@@ -5,7 +5,7 @@
 
 <br />
 
-Experienced (+5 years) Software Engineer with a demonstrated history of working in the software development industry with focus on Web applications. React expert. Proficient in using React, Redux, and other modern front-end technologies to develop dynamic and responsive user interfaces. Skilled in optimizing performance, managing state, and debugging complex issues in React applications. Passionate about staying up-to-date with the latest developments in the React ecosystem and leveraging them to deliver exceptional user experiences. Takes the job with passion and responsibility, eager to take on new challenges.
+Experienced (+5 years) Full Stack Engineer with a demonstrated history of working in the software development industry with focus on Web applications. React expert. Proficient in using React, Typescript, and other modern front-end technologies to develop dynamic and responsive user interfaces. Experienced with node.js and .NET back-end technologies. Skilled in optimizing performance, managing state, and debugging complex issues in React applications. Passionate about staying up-to-date with the latest developments and leveraging them to deliver exceptional user experiences.
 
 <br />
 
