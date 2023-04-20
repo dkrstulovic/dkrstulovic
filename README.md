@@ -20,7 +20,6 @@ Experienced (+5 years) Software Engineer with a demonstrated history of working 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **The longest recorded flight of a chicken is _13 seconds_**
 
 <br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
