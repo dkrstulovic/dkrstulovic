@@ -15,7 +15,7 @@ Experienced (+5 years) Software Engineer with a demonstrated history of working 
 - 🌱 I’m currently learning **DevOps**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 Ask me about **React, Javascript, C#**
-- 📫 How to reach me:[Click Click](mailto:dujam.krstulovic@gmail.com) !.
+- 📫 How to reach me: [Click Click](mailto:dujam.krstulovic@gmail.com)!.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **The longest recorded flight of a chicken is _13 seconds_**
 
