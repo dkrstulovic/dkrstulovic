@@ -1,6 +1,6 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="./gifs/Hi.gif" width="40px" />
+  𝐇𝐞𝐥𝐥𝐨, `&lt;𝚌𝚘𝚍𝚎𝚛𝚜 /&gt;!`
+  <img src="./gifs/hi.gif" width="40px" />
 </h1>
 
 <br />
